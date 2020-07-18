@@ -1,0 +1,28 @@
+[Sat Jul 18 13:38:03 2020] PHP 7.4.5 Development Server (http://0.0.0.0:8080) started
+[Sat Jul 18 13:38:06 2020] 127.0.0.1:52602 Accepted
+[Sat Jul 18 13:38:06 2020] 127.0.0.1:52602 [200]: (null) /index.html
+[Sat Jul 18 13:38:06 2020] 127.0.0.1:52602 Closing
+[Sat Jul 18 13:38:22 2020] 127.0.0.1:52614 Accepted
+[Sat Jul 18 13:38:22 2020] 127.0.0.1:52614 [200]: (null) /
+[Sat Jul 18 13:38:22 2020] 127.0.0.1:52614 Closing
+[Sat Jul 18 13:38:23 2020] 127.0.0.1:52634 Accepted
+[Sat Jul 18 13:38:23 2020] 127.0.0.1:52634 [200]: (null) /css/main.css
+[Sat Jul 18 13:38:23 2020] 127.0.0.1:52634 Closing
+[Sat Jul 18 13:38:23 2020] 127.0.0.1:52640 Accepted
+[Sat Jul 18 13:38:23 2020] 127.0.0.1:52640 [200]: (null) /js/main.js
+[Sat Jul 18 13:38:23 2020] 127.0.0.1:52640 Closing
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52644 Accepted
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52644 [200]: (null) /js/location.js
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52644 Closing
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52648 Accepted
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52648 [200]: (null) /js/info.js
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52648 Closing
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52652 Accepted
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52652 [200]: (null) /js/warpspeed.min.js
+[Sat Jul 18 13:38:24 2020] 127.0.0.1:52652 Closing
+[Sat Jul 18 13:38:26 2020] 127.0.0.1:52658 Accepted
+[Sat Jul 18 13:38:26 2020] 127.0.0.1:52658 [200]: POST /php/info.php
+[Sat Jul 18 13:38:26 2020] 127.0.0.1:52658 Closing
+[Sat Jul 18 13:38:33 2020] 127.0.0.1:52666 Accepted
+[Sat Jul 18 13:38:33 2020] 127.0.0.1:52666 [200]: POST /php/result.php
+[Sat Jul 18 13:38:33 2020] 127.0.0.1:52666 Closing

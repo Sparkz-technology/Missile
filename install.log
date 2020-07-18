@@ -1,0 +1,190 @@
+Get:1 http://kali.download/kali kali-rolling InRelease [30.5 kB]
+Get:2 http://kali.download/kali kali-rolling/main amd64 Packages [16.6 MB]
+Fetched 16.7 MB in 1min 26s (194 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.8.2-3).
+The following additional packages will be installed:
+  python-pip-whl python3-wheel
+The following NEW packages will be installed:
+  python-pip-whl python3-pip python3-wheel
+0 upgraded, 3 newly installed, 0 to remove and 646 not upgraded.
+Need to get 2,078 kB of archives.
+After this operation, 3,329 kB of additional disk space will be used.
+Get:1 http://ftp.harukasan.org/kali kali-rolling/main amd64 python-pip-whl all 20.0.2-5kali1 [1,842 kB]
+Get:2 http://ftp.harukasan.org/kali kali-rolling/main amd64 python3-wheel all 0.34.2-1 [24.0 kB]
+Get:3 http://ftp.harukasan.org/kali kali-rolling/main amd64 python3-pip all 20.0.2-5kali1 [211 kB]
+Fetched 2,078 kB in 24s (85.5 kB/s)
+Selecting previously unselected package python-pip-whl.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 243551 files and directories currently installed.)
+Preparing to unpack .../python-pip-whl_20.0.2-5kali1_all.deb ...
+Unpacking python-pip-whl (20.0.2-5kali1) ...
+Selecting previously unselected package python3-wheel.
+Preparing to unpack .../python3-wheel_0.34.2-1_all.deb ...
+Unpacking python3-wheel (0.34.2-1) ...
+Selecting previously unselected package python3-pip.
+Preparing to unpack .../python3-pip_20.0.2-5kali1_all.deb ...
+Unpacking python3-pip (20.0.2-5kali1) ...
+Setting up python3-wheel (0.34.2-1) ...
+Setting up python-pip-whl (20.0.2-5kali1) ...
+Setting up python3-pip (20.0.2-5kali1) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for kali-menu (2020.2.1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following package was automatically installed and is no longer required:
+  php7.3
+Use 'apt autoremove' to remove it.
+The following additional packages will be installed:
+  libapache2-mod-php7.4 php7.4 php7.4-cli php7.4-common php7.4-json
+  php7.4-opcache php7.4-readline
+Suggested packages:
+  php-pear
+The following NEW packages will be installed:
+  libapache2-mod-php7.4 php7.4 php7.4-cli php7.4-common php7.4-json
+  php7.4-opcache php7.4-readline
+The following packages will be upgraded:
+  php
+1 upgraded, 7 newly installed, 0 to remove and 645 not upgraded.
+Need to get 4,061 kB of archives.
+After this operation, 17.8 MB of additional disk space will be used.
+Get:1 http://ftp.harukasan.org/kali kali-rolling/main amd64 php7.4-common amd64 7.4.5-1+b1 [1,005 kB]
+Get:2 http://ftp.harukasan.org/kali kali-rolling/main amd64 php7.4-json amd64 7.4.5-1+b1 [19.0 kB]
+Get:3 http://ftp.harukasan.org/kali kali-rolling/main amd64 php7.4-opcache amd64 7.4.5-1+b1 [198 kB]
+Get:4 http://ftp.harukasan.org/kali kali-rolling/main amd64 php7.4-readline amd64 7.4.5-1+b1 [12.4 kB]
+Get:5 http://ftp.harukasan.org/kali kali-rolling/main amd64 php7.4-cli amd64 7.4.5-1+b1 [1,418 kB]
+Get:6 http://ftp.harukasan.org/kali kali-rolling/main amd64 libapache2-mod-php7.4 amd64 7.4.5-1+b1 [1,365 kB]
+Get:7 http://ftp.harukasan.org/kali kali-rolling/main amd64 php7.4 all 7.4.5-1 [38.0 kB]
+Get:8 http://ftp.harukasan.org/kali kali-rolling/main amd64 php all 2:7.4+76 [6,340 B]
+Fetched 4,061 kB in 44s (92.3 kB/s)
+Selecting previously unselected package php7.4-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 243754 files and directories currently installed.)
+Preparing to unpack .../0-php7.4-common_7.4.5-1+b1_amd64.deb ...
+Unpacking php7.4-common (7.4.5-1+b1) ...
+Selecting previously unselected package php7.4-json.
+Preparing to unpack .../1-php7.4-json_7.4.5-1+b1_amd64.deb ...
+Unpacking php7.4-json (7.4.5-1+b1) ...
+Selecting previously unselected package php7.4-opcache.
+Preparing to unpack .../2-php7.4-opcache_7.4.5-1+b1_amd64.deb ...
+Unpacking php7.4-opcache (7.4.5-1+b1) ...
+Selecting previously unselected package php7.4-readline.
+Preparing to unpack .../3-php7.4-readline_7.4.5-1+b1_amd64.deb ...
+Unpacking php7.4-readline (7.4.5-1+b1) ...
+Selecting previously unselected package php7.4-cli.
+Preparing to unpack .../4-php7.4-cli_7.4.5-1+b1_amd64.deb ...
+Unpacking php7.4-cli (7.4.5-1+b1) ...
+Selecting previously unselected package libapache2-mod-php7.4.
+Preparing to unpack .../5-libapache2-mod-php7.4_7.4.5-1+b1_amd64.deb ...
+Unpacking libapache2-mod-php7.4 (7.4.5-1+b1) ...
+Selecting previously unselected package php7.4.
+Preparing to unpack .../6-php7.4_7.4.5-1_all.deb ...
+Unpacking php7.4 (7.4.5-1) ...
+Preparing to unpack .../7-php_2%3a7.4+76_all.deb ...
+Unpacking php (2:7.4+76) over (2:7.3+69) ...
+Setting up php7.4-common (7.4.5-1+b1) ...
+
+Creating config file /etc/php/7.4/mods-available/calendar.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/ctype.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/exif.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/fileinfo.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/ffi.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/ftp.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/gettext.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/iconv.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/pdo.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/phar.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/posix.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/shmop.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sockets.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sysvmsg.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sysvsem.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/sysvshm.ini with new version
+
+Creating config file /etc/php/7.4/mods-available/tokenizer.ini with new version
+Setting up php7.4-readline (7.4.5-1+b1) ...
+
+Creating config file /etc/php/7.4/mods-available/readline.ini with new version
+Setting up php7.4-opcache (7.4.5-1+b1) ...
+
+Creating config file /etc/php/7.4/mods-available/opcache.ini with new version
+Setting up php7.4-json (7.4.5-1+b1) ...
+
+Creating config file /etc/php/7.4/mods-available/json.ini with new version
+Setting up php7.4-cli (7.4.5-1+b1) ...
+update-alternatives: using /usr/bin/php7.4 to provide /usr/bin/php (php) in auto mode
+update-alternatives: using /usr/bin/phar7.4 to provide /usr/bin/phar (phar) in auto mode
+update-alternatives: using /usr/bin/phar.phar7.4 to provide /usr/bin/phar.phar (phar.phar) in auto mode
+
+Creating config file /etc/php/7.4/cli/php.ini with new version
+Setting up libapache2-mod-php7.4 (7.4.5-1+b1) ...
+
+Creating config file /etc/php/7.4/apache2/php.ini with new version
+libapache2-mod-php7.4: php7.3 module already enabled, not enabling PHP 7.4
+Setting up php7.4 (7.4.5-1) ...
+Setting up php (2:7.4+76) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for kali-menu (2020.2.1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following package was automatically installed and is no longer required:
+  php7.3
+Use 'apt autoremove' to remove it.
+The following additional packages will be installed:
+  openssh-client openssh-server openssh-sftp-server
+Suggested packages:
+  keychain libpam-ssh monkeysphere ssh-askpass molly-guard ufw
+The following NEW packages will be installed:
+  ssh
+The following packages will be upgraded:
+  openssh-client openssh-server openssh-sftp-server
+3 upgraded, 1 newly installed, 0 to remove and 642 not upgraded.
+Need to get 1,589 kB of archives.
+After this operation, 263 kB of additional disk space will be used.
+Get:1 http://ftp.harukasan.org/kali kali-rolling/main amd64 openssh-sftp-server amd64 1:8.3p1-1 [50.9 kB]
+Get:2 http://ftp.harukasan.org/kali kali-rolling/main amd64 openssh-server amd64 1:8.3p1-1 [379 kB]
+Get:3 http://ftp.harukasan.org/kali kali-rolling/main amd64 openssh-client amd64 1:8.3p1-1 [910 kB]
+Get:4 http://ftp.harukasan.org/kali kali-rolling/main amd64 ssh all 1:8.3p1-1 [250 kB]
+Preconfiguring packages ...
+Fetched 1,589 kB in 16s (99.2 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 243874 files and directories currently installed.)
+Preparing to unpack .../openssh-sftp-server_1%3a8.3p1-1_amd64.deb ...
+Unpacking openssh-sftp-server (1:8.3p1-1) over (1:8.2p1-4) ...
+Preparing to unpack .../openssh-server_1%3a8.3p1-1_amd64.deb ...
+Unpacking openssh-server (1:8.3p1-1) over (1:8.2p1-4) ...
+Preparing to unpack .../openssh-client_1%3a8.3p1-1_amd64.deb ...
+Unpacking openssh-client (1:8.3p1-1) over (1:8.2p1-4) ...
+Selecting previously unselected package ssh.
+Preparing to unpack .../ssh_1%3a8.3p1-1_all.deb ...
+Unpacking ssh (1:8.3p1-1) ...
+Setting up openssh-client (1:8.3p1-1) ...
+Setting up openssh-sftp-server (1:8.3p1-1) ...
+Setting up openssh-server (1:8.3p1-1) ...
+Installing new version of config file /etc/init.d/ssh ...
+Installing new version of config file /etc/ssh/moduli ...
+Installing new version of config file /etc/sv/ssh/finish ...
+Installing new version of config file /etc/sv/ssh/log/run ...
+rescue-ssh.target is a disabled or a static unit, not starting it.
+Setting up ssh (1:8.3p1-1) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for kali-menu (2020.2.1) ...
+Processing triggers for systemd (245.4-3) ...
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (2.23.0)
