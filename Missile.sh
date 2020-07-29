@@ -120,7 +120,7 @@ if [ -e location ];then
 Then type this command :-
 		
 $ apt update
-$ apt uugrade
+$ apt upgrade
 $ apt install git
 $ cd $?�HOME
 $ git clone https://github.com/sparkz-technology/Missile.git
